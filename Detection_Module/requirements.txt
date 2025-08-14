@@ -1,0 +1,13 @@
+torch
+opencv-python
+matplotlib
+pandas
+PyYAML
+seaborn
+tqdm
+numpy
+Pillow
+scikit-learn
+ultralytics
+
+# pyserial ardiuno setup
