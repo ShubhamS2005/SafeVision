@@ -1,0 +1,32 @@
+RAW_IMAGES_DIR:  raw_sh17/images 
+RAW_LABELS_DIR: raw_sh17/labels
+OUTPUT_DIR:  dataset/sh17_ppe
+
+
+CLASS_MAP:
+    "helmet": 1,
+    "vest": 2,
+    "glove": 3,
+    "mask": 5,
+    "earmuffs": 7,
+    "no_helmet": 9,
+    "no_vest": 10,
+    "no_mask": 11
+
+
+path: ../dataset/sh17_ppe 
+
+train: images/train
+val: images/val
+
+names:
+    0: helmet
+    1: vest
+    2: glove
+    3: mask
+    4: earmuffs
+    5: no_helmet
+    6: no_vest
+    7: no_mask
+
+

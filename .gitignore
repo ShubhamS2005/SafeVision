@@ -1,0 +1,11 @@
+/venv
+/Detection_Module/.env
+/Detection_Module/dataset
+/Detection_Module/raw_sh17
+/Detection_Module/runs
+/Detection_Module/utils/__pycache__
+/Detection_Module/src/__pycache__
+
+/Backend/config
+/Backend/node_modules
+/Frontend/node_modules
